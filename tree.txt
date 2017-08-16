@@ -1,0 +1,103 @@
+.
+├── Background information
+│   ├── datasheets_manuals
+│   │   ├── Afro esc manual.pdf
+│   │   ├── hardkernel_odroidw_pins.jpg
+│   │   ├── LSM9DS1_Datasheet.pdf
+│   │   ├── LV-MaxSonar-EZ_Datasheet.pdf
+│   │   ├── odroid-ethernet.jpg
+│   │   ├── ODROID_Hardkernel.pdf
+│   │   ├── ODROID_Hardkernel_technical.pdf
+│   │   ├── OpenTX_for_9XR.pdf
+│   │   └── X8R receiver binding and manual.pdf
+│   └── h01q6-probleemoplossen-en(1).pdf
+├── General
+│   ├── Flight Instructions
+│   │   ├── batterymeter.jpg
+│   │   ├── eachineH8.jpg
+│   │   └── TOY-drone_Instructions.pdf
+│   ├── H01q6 EAGLE- Inleiding - 2016 v3.pdf
+│   ├── H01q6 EAGLE- Intro 2nd sem.pptx
+│   ├── h01q6-probleemoplossen-en.pdf
+│   ├── jaarplanning_stripped.xlsx
+│   ├── milestones_short.xlsx
+│   ├── Reporting
+│   │   ├── laboboek.html
+│   │   ├── presenteren.html
+│   │   └── transparanten.html
+│   └── Rubrics_Studenten .docx
+├── Technical information
+│   ├── Hardware
+│   │   ├── ESC
+│   │   │   ├── assignment.pdf
+│   │   │   ├── datasheets
+│   │   │   │   ├── AfroESC 20A USER MANUAL_0.pdf
+│   │   │   │   ├── Atmel-8271-8-bit-AVR-Microcontroller-ATmega48A-48PA-88A-88PA-168A-168PA-328-328P_datasheet_Complete.pdf
+│   │   │   │   ├── ICTE12_transient_voltage_suppressor.pdf
+│   │   │   │   ├── ir2110.pdf
+│   │   │   │   ├── irfb7546pbf.pdf
+│   │   │   │   ├── irfs7440pbf.pdf
+│   │   │   │   └── irlb8743pbf.pdf
+│   │   │   └── provided
+│   │   │       └── PCB_project.zip
+│   │   └── WPT
+│   │       ├── new
+│   │       │   ├── image005.jpg
+│   │       │   ├── image006.jpg
+│   │       │   ├── Module_Resonant WPT 2017.docx
+│   │       │   └── Module_Resonant WPT 2017.pdf
+│   │       └── old
+│   │           ├── datasheets
+│   │           │   ├── CopperEnamelledWire_pro-power.pdf
+│   │           │   ├── CSD18531Q5A 60 V Mosfet.pdf
+│   │           │   ├── CSD19501KCS_80V_Mosfet.pdf
+│   │           │   ├── External Bootstrap Diode.pdf
+│   │           │   ├── L6206_DMOS_dual_full_bridge_driver_datasheet.pdf
+│   │           │   ├── lm5005 application note.pdf
+│   │           │   ├── lm5005_high_voltage_switching_regulator.pdf
+│   │           │   ├── LM5100 Driver with application.pdf
+│   │           │   ├── NOTICE
+│   │           │   └── ultrafast diode.pdf
+│   │           ├── module_IWPT.pdf
+│   │           └── provided
+│   │               ├── AltiumArduinoR3_UNOSheild.zip
+│   │               └── voorbeeld_wpt.zip
+│   ├── Navigation
+│   │   ├── articles
+│   │   │   ├── 0927.pdf
+│   │   │   ├── article-quadcopter-02.pdf
+│   │   │   ├── article-quadcopter-03.pdf
+│   │   │   └── article-quadcopter-04.pdf
+│   │   ├── assignment.pdf
+│   │   ├── provided
+│   │   │   ├── model.pdf
+│   │   │   └── quaternion-model.pdf
+│   │   └── theory
+│   │       ├── lqr-at-kul-sopasakis.pdf
+│   │       ├── lqr-lqg.pdf
+│   │       └── lqrnotes.pdf
+│   └── Software
+│       ├── Crypto
+│       │   ├── 15.pdf
+│       │   ├── 25.pdf
+│       │   ├── 35.pdf
+│       │   ├── Argon2 key derivation algorithm specification.pdf
+│       │   ├── ASCON cipher design.pdf
+│       │   └── cosic-4.pdf
+│       ├── IMP
+│       │   ├── camera_models.pdf
+│       │   ├── eagle-image-processing.pdf
+│       │   ├── eagle-image-processing-QR(1).pdf
+│       │   ├── qrcode_50L_deskheight.jpg
+│       │   ├── test_demo.mp4
+│       │   └── test_red.MOV
+│       └── WVL
+│           ├── 01. telemic1718.pdf
+│           ├── 02. indepth1718.pdf
+│           ├── 03. DVBS2_standard.pdf
+│           ├── 04. Free Range VHDL.pdf
+│           ├── 05. LFSR-notes.PDF
+│           └── 06. software1718.pdf
+└── tree.txt
+
+23 directories, 77 files
